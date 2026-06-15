@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         X Exact Followers
 // @namespace    local.x-exact-followers
-// @version      0.7.0
+// @version      0.1.0
 // @description  Replace abbreviated X/Twitter follower counts with exact counts on profile pages.
 // @match        https://x.com/*
 // @match        https://twitter.com/*
 // @run-at       document-start
 // @grant        unsafeWindow
+// @license      MIT
 // ==/UserScript==
 
 (function () {
